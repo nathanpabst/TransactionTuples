@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace TransactionTuples
 {
@@ -6,7 +7,10 @@ namespace TransactionTuples
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            List<(string product, double amount, int quantity)> transactions = new List<(string, double, int)>();
+
+            Console.ReadLine();
+
         }
     }
 }
