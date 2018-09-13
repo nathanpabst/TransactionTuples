@@ -24,6 +24,9 @@ namespace TransactionTuples
                 revenue += amount * quantity;
             }
 
+            Console.WriteLine("Daily Recap:");
+            Console.WriteLine($"{sales} units sold, accounting for ${revenue} in revenue.");
+
             Console.ReadLine();
 
         }
