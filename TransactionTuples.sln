@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionTuples", "TransactionTuples\TransactionTuples.csproj", "{AFC28F42-B8D9-4368-BAEC-D7C7DD20E23F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFC28F42-B8D9-4368-BAEC-D7C7DD20E23F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC28F42-B8D9-4368-BAEC-D7C7DD20E23F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC28F42-B8D9-4368-BAEC-D7C7DD20E23F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC28F42-B8D9-4368-BAEC-D7C7DD20E23F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34028F43-253E-4E0F-A499-18FC5B4CCFC4}
+	EndGlobalSection
+EndGlobal
